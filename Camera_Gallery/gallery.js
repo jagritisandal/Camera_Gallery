@@ -131,7 +131,7 @@ function downloadListener(){
             a.href = imageRequest.url;
             a.download = "image.jpg";
             a.click();
-            console.log("hello");
+            
         }
     }
 }
